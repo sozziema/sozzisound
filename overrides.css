@@ -1,0 +1,198 @@
+/* Personalizzazioni SozziSound: immagine, profili e contatti */
+.hero-image img {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-image::after { z-index: 2; }
+
+@media (min-width: 801px) {
+  .hero-grid {
+    grid-template-columns: 1.35fr .65fr;
+    gap: 72px;
+  }
+
+  .hero-image {
+    min-height: 430px;
+    border-radius: 145px 145px 0 0;
+  }
+}
+
+.location-note {
+  margin: 20px 0 38px;
+  color: #b7d9ff;
+  font-size: .83rem;
+  font-weight: 700;
+  letter-spacing: .03em;
+}
+
+.image-caption {
+  z-index: 3;
+  text-shadow: 0 1px 8px #020a18;
+}
+
+.about-grid > div:last-child > p {
+  color: var(--muted);
+  max-width: 500px;
+}
+
+.professionals {
+  display: grid;
+  gap: 16px;
+  margin: 28px 0 8px;
+}
+
+.professional {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  padding: 15px 0;
+  border-top: 1px solid var(--line);
+}
+
+.professional:last-child { border-bottom: 1px solid var(--line); }
+
+.initials {
+  display: grid;
+  place-items: center;
+  flex: 0 0 52px;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--navy);
+  color: #b7d9ff;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+.profile-photo {
+  flex: 0 0 64px;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  border: 2px solid #b7d9ff;
+}
+
+.professional h3 {
+  margin: 0 0 2px;
+  font-family: "Playfair Display", serif;
+  font-size: 1.25rem;
+}
+
+.professional p {
+  margin: 0 !important;
+  font-size: .88rem !important;
+}
+
+.linkedin-link {
+  color: var(--blue);
+  font-size: .82rem;
+  font-weight: 700;
+}
+
+.contact-details {
+  gap: 12px;
+}
+
+.contact-details a { display: grid; }
+
+.contact-details small {
+  color: var(--muted);
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+.local-area, .faq {
+  position: relative;
+  background-color: var(--pale);
+  background-image: url("assets/traccia-sonora.svg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.local-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
+  align-items: start;
+}
+
+.local-grid > div:last-child { color: var(--muted); }
+
+.local-grid .text-link { color: var(--ink); }
+
+.service-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: var(--sky);
+  font-size: .84rem;
+  font-weight: 700;
+}
+
+.service-link span { margin-left: 5px; }
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+.faq-grid article {
+  padding: 28px 30px 28px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.faq-grid article:not(:first-child) { padding-left: 30px; border-left: 1px solid var(--line); }
+
+.faq-grid h3 { font-family: "Playfair Display", serif; font-size: 1.35rem; line-height: 1.18; }
+
+.faq-grid p { margin-bottom: 0; color: var(--muted); font-size: .92rem; }
+
+.service-header { padding: 22px 0; background: var(--deep); color: white; }
+
+.service-nav { display: flex; align-items: center; justify-content: space-between; }
+
+.service-page { background: var(--paper); }
+
+.service-hero { padding: 110px 0 85px; background: var(--pale); }
+
+.service-hero h1 { max-width: 920px; color: var(--navy); }
+
+.service-hero > .container > p:last-child { max-width: 720px; color: var(--muted); font-size: 1.1rem; }
+
+.service-content { padding: 90px 0 110px; }
+
+.service-columns { display: grid; grid-template-columns: 1.35fr .65fr; gap: 100px; }
+
+.service-columns h2 { font-size: 2rem; margin: 0 0 14px; }
+
+.service-columns h2:not(:first-child) { margin-top: 42px; }
+
+.service-columns > div > p { color: var(--muted); max-width: 670px; }
+
+.service-columns aside { align-self: start; padding: 28px; background: var(--navy); color: white; }
+
+.service-columns aside .eyebrow { color: var(--sky); }
+
+.service-columns aside h3 { font-family: "Playfair Display", serif; font-size: 1.6rem; line-height: 1.2; }
+
+.service-columns aside > p:not(.eyebrow) { color: #c1d2e8; }
+
+@media (max-width: 800px) {
+  .hero-image { min-height: 390px; }
+  .location-note { margin: 18px 0 32px; }
+  .local-grid, .faq-grid { grid-template-columns: 1fr; gap: 35px; }
+  .faq-grid article, .faq-grid article:not(:first-child) { padding: 24px 0; border-left: 0; }
+  .service-columns { grid-template-columns: 1fr; gap: 40px; }
+  .service-hero { padding: 80px 0 60px; }
+  .local-area, .faq { background-attachment: scroll; }
+}
