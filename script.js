@@ -25,7 +25,7 @@ if (contactForm) {
     const formData = new FormData(event.currentTarget);
     const subject = encodeURIComponent(`Richiesta di consulenza acustica - ${formData.get('nome')}`);
     const body = encodeURIComponent(`Nome: ${formData.get('nome')}\nEmail: ${formData.get('email')}\n\nRichiesta:\n${formData.get('messaggio')}`);
-    window.location.href = `mailto:sozzisoundsrl@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:info@sozzisound.it?subject=${subject}&body=${body}`;
   });
 }
 
