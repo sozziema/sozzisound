@@ -1,95 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://sozzisound.it/</loc>
-    <priority>1.0</priority>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/valutazione-impatto-acustico-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/clima-acustico-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/acustica-previsionale-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/requisiti-acustici-passivi-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/sicurezza-rumore-lavoro-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/bonifica-acustica-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/perizie-acustiche-controversie-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/collaudo-acustico-edifici-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/servizi/progettazione-acustica-ambienti-puglia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/citta/tecnico-acustica-bari.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/citta/tecnico-acustica-lecce.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/citta/tecnico-acustica-taranto.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/citta/tecnico-acustica-brindisi.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/citta/tecnico-acustica-foggia.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/citta/tecnico-acustica-bat.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/privacy.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
-  <url>
-    <loc>https://sozzisound.it/cookie-policy.html</loc>
-    <lastmod>2026-09-06</lastmod>
-  </url>
-
+  <url><loc>https://sozzisound.it/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/valutazione-impatto-acustico-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/clima-acustico-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/bonifica-acustica-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/acustica-previsionale-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/requisiti-acustici-passivi-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/sicurezza-rumore-lavoro-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/perizie-acustiche-controversie-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/collaudo-acustico-edifici-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/progettazione-acustica-ambienti-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/impatto-acustico-locali-musica-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/deroga-acustica-eventi-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/verifica-livelli-sonori-locali-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/impatto-acustico-impianti-sportivi-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/relazione-acustica-permesso-costruire-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/relazione-acustica-attivita-produttive-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/rumore-attivita-commerciali-artigianali-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/rumore-impianti-tecnici-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/acustica-aule-uffici-sale-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/impatto-acustico-impianti-energetici-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/servizi/acustica-enti-pubblici-puglia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/progettisti.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/locali-eventi.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/aziende.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/rspp-consulenti-sicurezza.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/studi-legali.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/privati-condomini.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/impianti-sportivi.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/per/enti-pubblici.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/tecnico-competente-in-acustica-enteca.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/impatto-acustico-e-clima-acustico-differenze.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/bar-ristoranti-alberghi-impatto-acustico.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/legge-regionale-puglia-3-2002-acustica.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/requisiti-acustici-passivi-dpcm-5-12-1997.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/rumore-del-vicino-normale-tollerabilita.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/campi-da-padel-rumore.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/musica-nei-locali-limiti-deroghe.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/rumore-luoghi-di-lavoro-valori-azione-limite.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/classificazione-acustica-comunale.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/pompe-di-calore-unita-esterne-rumore.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/guide/rilievo-fonometrico-come-si-svolge.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-bari.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-lecce.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-taranto.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-brindisi.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-foggia.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-bat.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-ostuni.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-fasano.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-monopoli.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-martina-franca.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-cisternino.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-ceglie-messapica.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-carovigno.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-francavilla-fontana.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-mesagne.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-locorotondo.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-alberobello.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-polignano-a-mare.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-gallipoli.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-otranto.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/citta/tecnico-acustica-altamura.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/quale-pratica-acustica.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/faq.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/chi-siamo.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sozzisound.it/contatti.html</loc><lastmod>2026-11-10</lastmod></url>
 </urlset>
