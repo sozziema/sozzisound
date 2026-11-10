@@ -35,7 +35,7 @@ LINKEDIN_EMANUELE = "https://www.linkedin.com/in/emanuele-sozzi-a1758920a/"
 
 # Modulo contatti: indirizzo dell'app web di Google Apps Script (vedi _src/modulo-contatti/ISTRUZIONI.md).
 # Finché resta vuoto, il modulo invia tramite l'app di posta o WhatsApp del visitatore.
-MODULO_ENDPOINT = ""
+MODULO_ENDPOINT = "https://script.google.com/macros/s/AKfycbzOGQRPA1nKQwZz5fbfAWcTnR7GlFsUHScDrLXnoaR1r9VcH4D5_bP6X2nncx6zBnJJ0w/exec"
 
 # Google Analytics e Google Ads
 GA4 = "G-8PBHZKBKSM"
